@@ -1,6 +1,7 @@
 ## 抽奖系统，基于以下技术：
--Jquery
--Bootstrap
+
+- Jquery
+- Bootstrap
 
 支持IE6+，Chrome，firefox等浏览器。
 
