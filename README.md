@@ -1,10 +1,10 @@
-## ³é½±ÏµÍ³£¬»ùÓÚÒ»Ğ©¼¼Êõ£º
+## æŠ½å¥–ç³»ç»Ÿï¼ŒåŸºäºä¸€äº›æŠ€æœ¯ï¼š
    
     -Jquery
     -Bootstrap
     
-    Ö§³ÖIE6+£¬Chrome£¬firefoxµÈä¯ÀÀÆ÷¡£
+    æ”¯æŒIE6+ï¼ŒChromeï¼Œfirefoxç­‰æµè§ˆå™¨ã€‚
 
-## ²Î¿¼°ïÖú
-	½è¼øÁË[dcoupe](https://github.com/dcoupe/lottery)£¬±íÊ¾¸ĞĞ»¡£
+## å‚è€ƒå¸®åŠ©
+	å€Ÿé‰´äº† [dcoupe](https://github.com/dcoupe/lottery)ï¼Œè¡¨ç¤ºæ„Ÿè°¢ã€‚
 
